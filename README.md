@@ -1,5 +1,5 @@
 <h3 align="center">Hola 👋, Yo soy Camilo Rodriguez</h3>
-<h5 align="center">Ing. Industrial - Ing. Software(en curso) - Especialista en Gerencia de Proyectos. Desarrollador En Activos SAS.</h5>
+<h5 align="center">Ing. Industrial - Ing. Software- Especialista en Gerencia de Proyectos - Diplomado IA. Desarrollador En Activos SAS.</h5>
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
